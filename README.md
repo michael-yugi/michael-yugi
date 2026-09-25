@@ -29,9 +29,3 @@ I am a student learning web development and computer technology.
 - [My Website](https://michael-yugi.github.io)
 - [Markdown Practice](./markdown-practice.md)
 
-## Setup
-
-I have configured Git with my name and GitHub account email.
-
-```bash
-git config --global --list
