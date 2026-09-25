@@ -1,4 +1,4 @@
-# Hi, I'm Michael Yugi 👋
+# Hi, I'm Michael Yugi 
 
 ## About Me
 
