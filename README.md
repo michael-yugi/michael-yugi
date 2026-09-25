@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Michael Yugi 👋
 
-<!--
-**michael-yugi/michael-yugi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I am a student learning web development and computer technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm Currently Learning
+
+- HTML
+- CSS
+- Git and GitHub
+- Markdown
+- JavaScript
+
+## What I'm Working On
+
+- Building my developer portfolio
+- Learning how to use Git and GitHub
+- Creating websites
+
+## My Goals
+
+- Improve my coding skills
+- Build useful websites
+- Become a better developer
+
+## Links
+
+- [My Website](https://michael-yugi.github.io)
+- [Markdown Practice](./markdown-practice.md)
+
+## Setup
+
+I have configured Git with my name and GitHub account email.
+
+```bash
+git config --global --list
