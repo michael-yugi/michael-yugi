@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a student learning web development and computer technology.
+I am a student learning web development and computer programming.
 
 ## What I'm Currently Learning
 
@@ -14,7 +14,7 @@ I am a student learning web development and computer technology.
 
 ## What I'm Working On
 
-- Building my developer portfolio
+- Building my profile
 - Learning how to use Git and GitHub
 - Creating websites
 
@@ -29,3 +29,9 @@ I am a student learning web development and computer technology.
 - [My Website](https://michael-yugi.github.io)
 - [Markdown Practice](./markdown-practice.md)
 
+## Setup
+
+I have configured Git with my name and GitHub account email.
+
+```bash
+git config --global --list
