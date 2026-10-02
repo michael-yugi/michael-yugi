@@ -28,7 +28,7 @@ I am a student learning web development and computer programming.
 
 - [My Website](https://michael-yugi.github.io)
 - [Markdown Practice](https://github.com/michael-yugi/michael-yugi/blob/main/markdown-practices.md)
-
+- [week 00 team](https://github.com/HellenWamuciiNjue/iyf-s12-week-00-team-HellenWamuciiNjue)
 ## Setup
 
 I have configured Git with my name and GitHub account email.
