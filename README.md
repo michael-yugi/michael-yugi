@@ -27,7 +27,7 @@ I am a student learning web development and computer programming.
 ## Links
 
 - [My Website](https://michael-yugi.github.io)
-- [Markdown Practice](./markdown-practice.md)
+- [Markdown Practice](https://github.com/michael-yugi/michael-yugi/blob/main/markdown-practices.md)
 
 ## Setup
 
