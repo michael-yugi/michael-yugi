@@ -24,13 +24,10 @@ I am a student learning web development and computer programming.
 - Build useful websites
 - Become a better developer
 
-## Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michael-yugi&layout=compact)
-
 ## My GitHub Stats
 
 ![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=michael-yugi&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michael-yugi&layout=compact)
 
 ## Links
 
