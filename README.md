@@ -50,11 +50,32 @@ Java          █████████░░░░░░░░░░░  45%
 |  GitHub Projects | Projects created while learning Git and GitHub |
 
 
-## My GitHub Stats
+## 📊 My GitHub Stats
 
-![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=michael-yugi&show_icons=true&theme=tokyonight&hide)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=michael-yugi&theme=tokyonight&hide_border=true" />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michael-yugi&layout=compact&theme=tokyonight&hide)
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=michael-yugi&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=21600&v=2" 
+    alt="Michael's GitHub Stats"
+  />
+</p>
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com/?user=michael-yugi&theme=tokyonight&hide_border=true&v=2" 
+    alt="Michael's GitHub Streak"
+  />
+</p>
+
+## 💻 Most Used Languages
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=michael-yugi&layout=compact&theme=tokyonight&hide_border=true&v=2" 
+    alt="Michael's Most Used Languages"
+  />
+</p>
 
 ## Links
 
