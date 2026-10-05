@@ -3,10 +3,10 @@
 ## About Me
 
 I am a student learning web development and computer programming.
--  Building projects to improve my coding skills
--  Part of the **IYF Web Foundations** learning journey
--  Working towards becoming a professional developer
--  Always ready to learn something new
+-  Building projects to improve my coding skills.
+-  Part of the **IYF Web Foundations** learning journey.
+-  Working towards becoming a professional developer.
+-  Always ready to learn something new.
 
 ##  Currently Learning
 
