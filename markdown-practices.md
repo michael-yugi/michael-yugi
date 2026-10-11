@@ -17,7 +17,7 @@ I want to become a **better** programmer and learn *web development* using `HTML
 
 ## Steps to Make a Git Commit
 
-1. Make changes to your files
+1. Make changes to your files.
 2. Add the files using `git add`
 3. Create a commit using `git commit`
 4. Push the changes using `git push`
