@@ -28,8 +28,8 @@ Java          █████████░░░░░░░░░░░  45%
 
 ## My Goals
 
-- Improve my coding skills
-- Build useful websites
+- Improve my coding skills.
+- Build useful websites.
 - Become a better developer
 - Learn HTML fundamentals
 - Learn Git and GitHub
