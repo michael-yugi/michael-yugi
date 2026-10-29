@@ -58,9 +58,9 @@ Java          █████████░░░░░░░░░░░  45%
   <img src="https://skillicons.dev/icons?i=python,flask,nodejs,js,c&perline=8" />
 </p>
 
-                               ### Frontend
+ ### Frontend
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=react,angular,html,css,tailwind,materialui,figma&perline=8" />
 </p>
 
