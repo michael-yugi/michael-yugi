@@ -50,6 +50,32 @@ Java          █████████░░░░░░░░░░░  45%
 |  GitHub Projects | Projects created while learning Git and GitHub |
 
 
+## 🛠️ Tech Stack
+
+### Languages & Frameworks
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,flask,nodejs,js,c&perline=8" />
+</p>
+
+### Frontend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,angular,html,css,tailwind,materialui,figma&perline=8" />
+</p>
+
+### Databases & Infrastructure
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,redis,nginx,docker,kubernetes,gcp&perline=8" />
+</p>
+
+### Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,linux,bash,github&perline=8" />
+</p>
+
 ## 📊 My GitHub Stats
 
 <p align="center">
