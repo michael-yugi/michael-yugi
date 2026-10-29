@@ -58,7 +58,7 @@ Java          █████████░░░░░░░░░░░  45%
   <img src="https://skillicons.dev/icons?i=python,flask,nodejs,js,c&perline=8" />
 </p>
 
-### Frontend
+                               ### Frontend
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,angular,html,css,tailwind,materialui,figma&perline=8" />
@@ -104,6 +104,7 @@ Java          █████████░░░░░░░░░░░  45%
 </p>
 
 ## Links
+- [live portfolio link](https://michael-yugi.github.io/iyf-s12-week-01-michaelyugi/)
 - [My Website](https://michael-yugi.github.io)
 - [Markdown Practice](https://github.com/michael-yugi/michael-yugi/blob/main/markdown-practices.md)
 - [week 00 team](https://github.com/HellenWamuciiNjue/iyf-s12-week-00-team-HellenWamuciiNjue)
