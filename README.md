@@ -1,4 +1,11 @@
-# Hi, I'm Michael Yugi 
+<!-- Profile Header -->
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB347,100:702963&height=220&section=header&text=Michael%20Yugi&fontSize=65&fontColor=ffffff&fontAlignY=40"
+    alt="Michael Yugi Profile Header"
+    width="100%"
+  />
+</p>
 
 ## About Me
 
