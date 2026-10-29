@@ -110,5 +110,39 @@ Java          █████████░░░░░░░░░░░  45%
 - [week 00 team](https://github.com/HellenWamuciiNjue/iyf-s12-week-00-team-HellenWamuciiNjue)
 
 
-<img width="1016" height="461" alt="image" src="https://github.com/user-attachments/assets/9ab4f3c9-aefc-43ac-bf08-e84ad3e7e753" />
+## 🤝 Connect with me
+
+<p align="center">
+  <a href="https://x.com/michaelyugi1">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="https://www.linkedin.com/in/michael%20yugi/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/michael-yugi">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:[michaelyugi598@gmail.com](mailto:michaelyugi598@gmail.com)">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<br/>
+
+<h3 align="center">Got a project in mind? Let's build something great together.</h3>
+
+<p align="center">   <a href="https://wa.me/254104219448">     <img src="https://img.shields.io/badge/WhatsApp-Let's%20Talk-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Let's Talk on WhatsApp" />
+  </a>
+</p>
+
+<p align="center">
+  Available for learning opportunities, projects, and collaboration.
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" alt="Decorative wave footer" />
+</p>
+
 
