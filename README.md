@@ -54,7 +54,7 @@ Java          █████████░░░░░░░░░░░  45%
 
 ### Languages & Frameworks
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=python,flask,nodejs,js,c&perline=8" />
 </p>
 
@@ -66,19 +66,19 @@ Java          █████████░░░░░░░░░░░  45%
 
 ### Databases & Infrastructure
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=mongodb,redis,nginx,docker,kubernetes,gcp&perline=8" />
 </p>
 
 ### Tools
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=git,linux,bash,github&perline=8" />
 </p>
 
 ## 📊 My GitHub Stats
 
-<p align="center">
+<p align="left">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=michael-yugi&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=21600&v=2" 
     alt="Michael's GitHub Stats"
@@ -87,7 +87,7 @@ Java          █████████░░░░░░░░░░░  45%
 
 ## 🔥 GitHub Streak
 
-<p align="center">
+<p align="left">
   <img 
     src="https://streak-stats.demolab.com/?user=michael-yugi&theme=tokyonight&hide_border=true&v=2" 
     alt="Michael's GitHub Streak"
@@ -96,7 +96,7 @@ Java          █████████░░░░░░░░░░░  45%
 
 ## 💻 Most Used Languages
 
-<p align="center">
+<p align="left">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=michael-yugi&layout=compact&theme=tokyonight&hide_border=true&v=2" 
     alt="Michael's Most Used Languages"
