@@ -109,5 +109,6 @@ Java          █████████░░░░░░░░░░░  45%
 - [Markdown Practice](https://github.com/michael-yugi/michael-yugi/blob/main/markdown-practices.md)
 - [week 00 team](https://github.com/HellenWamuciiNjue/iyf-s12-week-00-team-HellenWamuciiNjue)
 
-## Setup
-I have configured Git with my name and GitHub account email.
+
+<img width="1016" height="461" alt="image" src="https://github.com/user-attachments/assets/9ab4f3c9-aefc-43ac-bf08-e84ad3e7e753" />
+
