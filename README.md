@@ -105,8 +105,7 @@ Java          █████████░░░░░░░░░░░  45%
 
 <p align="left">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=michael-yugi&layout=compact&theme=tokyonight&hide_border=true&v=2" 
-    alt="Michael's Most Used Languages"
+[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=michael-yugi&layout=compact&theme=tokyonight&langs_count=8)](https://github.com/michael-yugi)]
   />
 </p>
 
