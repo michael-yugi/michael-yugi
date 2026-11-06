@@ -104,7 +104,7 @@ Java          █████████░░░░░░░░░░░  45%
 
 <p align="left">
   
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=michael-yugi&layout=compact&theme=tokyonight&langs_count=10)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=michael-yugi&layout=compact&theme=tokyonight&langs_count=15)
 </p>
 
 ## Links
