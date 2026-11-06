@@ -86,10 +86,9 @@ Java          █████████░░░░░░░░░░░  45%
 ## 📊 My GitHub Stats
 
 <p align="left">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=michael-yugi&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=21600&v=2" 
-    alt="Michael's GitHub Stats"
-  />
+  
+   ![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?michael-yugi=anuraghazra&show=contributions,all_time_contribs,reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_authored,prs_commented,prs_reviewed,issues_authored,issues_commented)
+  
 </p>
 
 ## 🔥 GitHub Streak
