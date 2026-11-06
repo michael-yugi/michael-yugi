@@ -87,7 +87,7 @@ Java          █████████░░░░░░░░░░░  45%
 
 <p align="left">
   
-![Michael Yugi's GitHub Stats](https://github-stats-extended.vercel.app/api?username=michael-yugi&show=contributions,all_time_contribs,reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_authored,prs_commented,prs_reviewed,issues_authored,issues_commented)
+![Michael Yugi's GitHub Stats](https://github-stats-extended.vercel.app/api?username=michael-yugi&theme=tokyonight&show=contributions,all_time_contribs,reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_authored,prs_commented,prs_reviewed,issues_authored,issues_commented)
   
 </p>
 
