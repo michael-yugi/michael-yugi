@@ -104,7 +104,7 @@ Java          █████████░░░░░░░░░░░  45%
 ## 💻 Most Used Languages
 
 <p align="left">
-  <img 
+  
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=michael-yugi&layout=compact&theme=tokyonight&langs_count=8)](https://github.com/michael-yugi)]
   />
 </p>
